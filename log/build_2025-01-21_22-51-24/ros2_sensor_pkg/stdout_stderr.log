@@ -1,0 +1,22 @@
+running egg_info
+writing ../../build/ros2_sensor_pkg/ros2_sensor_pkg.egg-info/PKG-INFO
+writing dependency_links to ../../build/ros2_sensor_pkg/ros2_sensor_pkg.egg-info/dependency_links.txt
+writing entry points to ../../build/ros2_sensor_pkg/ros2_sensor_pkg.egg-info/entry_points.txt
+writing requirements to ../../build/ros2_sensor_pkg/ros2_sensor_pkg.egg-info/requires.txt
+writing top-level names to ../../build/ros2_sensor_pkg/ros2_sensor_pkg.egg-info/top_level.txt
+reading manifest file '../../build/ros2_sensor_pkg/ros2_sensor_pkg.egg-info/SOURCES.txt'
+writing manifest file '../../build/ros2_sensor_pkg/ros2_sensor_pkg.egg-info/SOURCES.txt'
+running build
+running build_py
+copying ros2_sensor_pkg/laser_sensor.py -> /home/radwa/Documents/Sensor_Fusion_Kalman_Estimator_ROS2/build/ros2_sensor_pkg/build/lib/ros2_sensor_pkg
+running install
+running install_lib
+copying /home/radwa/Documents/Sensor_Fusion_Kalman_Estimator_ROS2/build/ros2_sensor_pkg/build/lib/ros2_sensor_pkg/laser_sensor.py -> /home/radwa/Documents/Sensor_Fusion_Kalman_Estimator_ROS2/install/ros2_sensor_pkg/lib/python3.10/site-packages/ros2_sensor_pkg
+byte-compiling /home/radwa/Documents/Sensor_Fusion_Kalman_Estimator_ROS2/install/ros2_sensor_pkg/lib/python3.10/site-packages/ros2_sensor_pkg/laser_sensor.py to laser_sensor.cpython-310.pyc
+running install_data
+running install_egg_info
+removing '/home/radwa/Documents/Sensor_Fusion_Kalman_Estimator_ROS2/install/ros2_sensor_pkg/lib/python3.10/site-packages/ros2_sensor_pkg-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/ros2_sensor_pkg/ros2_sensor_pkg.egg-info to /home/radwa/Documents/Sensor_Fusion_Kalman_Estimator_ROS2/install/ros2_sensor_pkg/lib/python3.10/site-packages/ros2_sensor_pkg-0.0.0-py3.10.egg-info
+running install_scripts
+Installing laser_node script to /home/radwa/Documents/Sensor_Fusion_Kalman_Estimator_ROS2/install/ros2_sensor_pkg/lib/ros2_sensor_pkg
+writing list of installed files to '/home/radwa/Documents/Sensor_Fusion_Kalman_Estimator_ROS2/build/ros2_sensor_pkg/install.log'

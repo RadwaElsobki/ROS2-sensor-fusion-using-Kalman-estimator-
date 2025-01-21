@@ -1,0 +1,3 @@
+[console_scripts]
+laser_node = ros2_sensor_pkg.laser_sensor
+

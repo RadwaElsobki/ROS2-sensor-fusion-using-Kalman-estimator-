@@ -1,0 +1,24 @@
+[0.566s] Invoking command in '/home/radwa/Documents/Sensor_Fusion_Kalman_Estimator_ROS2/src/ros2_sensor_pkg': PYTHONPATH=/home/radwa/Documents/Sensor_Fusion_Kalman_Estimator_ROS2/build/ros2_sensor_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/radwa/Documents/Sensor_Fusion_Kalman_Estimator_ROS2/install/ros2_sensor_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/ros2_sensor_pkg build --build-base /home/radwa/Documents/Sensor_Fusion_Kalman_Estimator_ROS2/build/ros2_sensor_pkg/build install --record /home/radwa/Documents/Sensor_Fusion_Kalman_Estimator_ROS2/build/ros2_sensor_pkg/install.log --single-version-externally-managed install_data
+[0.771s] running egg_info
+[0.771s] writing ../../build/ros2_sensor_pkg/ros2_sensor_pkg.egg-info/PKG-INFO
+[0.772s] writing dependency_links to ../../build/ros2_sensor_pkg/ros2_sensor_pkg.egg-info/dependency_links.txt
+[0.772s] writing entry points to ../../build/ros2_sensor_pkg/ros2_sensor_pkg.egg-info/entry_points.txt
+[0.772s] writing requirements to ../../build/ros2_sensor_pkg/ros2_sensor_pkg.egg-info/requires.txt
+[0.772s] writing top-level names to ../../build/ros2_sensor_pkg/ros2_sensor_pkg.egg-info/top_level.txt
+[0.774s] reading manifest file '../../build/ros2_sensor_pkg/ros2_sensor_pkg.egg-info/SOURCES.txt'
+[0.775s] writing manifest file '../../build/ros2_sensor_pkg/ros2_sensor_pkg.egg-info/SOURCES.txt'
+[0.775s] running build
+[0.775s] running build_py
+[0.775s] copying ros2_sensor_pkg/laser_sensor.py -> /home/radwa/Documents/Sensor_Fusion_Kalman_Estimator_ROS2/build/ros2_sensor_pkg/build/lib/ros2_sensor_pkg
+[0.775s] running install
+[0.775s] running install_lib
+[0.776s] copying /home/radwa/Documents/Sensor_Fusion_Kalman_Estimator_ROS2/build/ros2_sensor_pkg/build/lib/ros2_sensor_pkg/laser_sensor.py -> /home/radwa/Documents/Sensor_Fusion_Kalman_Estimator_ROS2/install/ros2_sensor_pkg/lib/python3.10/site-packages/ros2_sensor_pkg
+[0.776s] byte-compiling /home/radwa/Documents/Sensor_Fusion_Kalman_Estimator_ROS2/install/ros2_sensor_pkg/lib/python3.10/site-packages/ros2_sensor_pkg/laser_sensor.py to laser_sensor.cpython-310.pyc
+[0.777s] running install_data
+[0.777s] running install_egg_info
+[0.779s] removing '/home/radwa/Documents/Sensor_Fusion_Kalman_Estimator_ROS2/install/ros2_sensor_pkg/lib/python3.10/site-packages/ros2_sensor_pkg-0.0.0-py3.10.egg-info' (and everything under it)
+[0.779s] Copying ../../build/ros2_sensor_pkg/ros2_sensor_pkg.egg-info to /home/radwa/Documents/Sensor_Fusion_Kalman_Estimator_ROS2/install/ros2_sensor_pkg/lib/python3.10/site-packages/ros2_sensor_pkg-0.0.0-py3.10.egg-info
+[0.780s] running install_scripts
+[0.795s] Installing laser_node script to /home/radwa/Documents/Sensor_Fusion_Kalman_Estimator_ROS2/install/ros2_sensor_pkg/lib/ros2_sensor_pkg
+[0.796s] writing list of installed files to '/home/radwa/Documents/Sensor_Fusion_Kalman_Estimator_ROS2/build/ros2_sensor_pkg/install.log'
+[0.814s] Invoked command in '/home/radwa/Documents/Sensor_Fusion_Kalman_Estimator_ROS2/src/ros2_sensor_pkg' returned '0': PYTHONPATH=/home/radwa/Documents/Sensor_Fusion_Kalman_Estimator_ROS2/build/ros2_sensor_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/radwa/Documents/Sensor_Fusion_Kalman_Estimator_ROS2/install/ros2_sensor_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/ros2_sensor_pkg build --build-base /home/radwa/Documents/Sensor_Fusion_Kalman_Estimator_ROS2/build/ros2_sensor_pkg/build install --record /home/radwa/Documents/Sensor_Fusion_Kalman_Estimator_ROS2/build/ros2_sensor_pkg/install.log --single-version-externally-managed install_data
